@@ -14,8 +14,8 @@ h2 align="center">Hi, I'm 👨‍💻👨‍💻👨‍💻Mihail Sorokin!👨�
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/mityaua/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
-<a href="https://t.me/skyup"><img src="https://img.shields.io/badge/Telegram-555?logo=telegram&style=for-the-badge" alt="telegram" title="Telegram" /></a>
+<a href="https://www.linkedin.com/in/mihail-sorokin-717858222"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
+<a href="https://t.me/MihailSorokin87"><img src="https://img.shields.io/badge/Telegram-555?logo=telegram&style=for-the-badge" alt="telegram" title="Telegram" /></a>
 </p>
 
 <h2 align="left">My stack:</h2>
